@@ -11,6 +11,14 @@
   <a href="README.md">🇬🇧 English</a> · 🇫🇷 Français
 </p>
 
+<p align="center">
+  <img alt="Année 2023" src="https://img.shields.io/badge/ann%C3%A9e-2023-blue">
+  <img alt="WinDev 25" src="https://img.shields.io/badge/WinDev-25-teal">
+  <img alt="Licence MIT" src="https://img.shields.io/badge/licence-MIT-green">
+</p>
+
+> 📅 **Projet réalisé en 2023** (soutenu le 30 mai 2023). Il reflète mes compétences à cette époque et est publié comme réalisation de portfolio.
+
 ---
 
 ## À propos
@@ -100,11 +108,10 @@ SmartPharma/
 - Le mémoire n'est pas publié en entier ; un court résumé du projet est donné ci-dessus.
 - Les fichiers WinDev sont dans des formats propriétaires : GitHub n'affiche donc pas de coloration syntaxique pour ce code.
 
-## Améliorations possibles
+## Perspectives (issues du mémoire)
 
 - Prise en charge des cartes d'assurance maladie (CHIFAA, CNAS).
 - Application mobile Android et iOS complémentaire.
-- Mots de passe hachés et sauvegardes automatiques.
 
 ## Licence
 

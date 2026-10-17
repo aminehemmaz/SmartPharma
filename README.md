@@ -11,6 +11,14 @@
   🇬🇧 English · <a href="README.fr.md">🇫🇷 Français</a>
 </p>
 
+<p align="center">
+  <img alt="Year 2023" src="https://img.shields.io/badge/year-2023-blue">
+  <img alt="WinDev 25" src="https://img.shields.io/badge/WinDev-25-teal">
+  <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-green">
+</p>
+
+> 📅 **Project completed in 2023** (defended on 30 May 2023). It reflects my skills at that time and is published as a portfolio piece.
+
 ---
 
 ## About
@@ -100,11 +108,10 @@ SmartPharma/
 - The thesis is not published in full. A short summary of the project is given above.
 - WinDev project files are proprietary text/binary formats, so GitHub does not show syntax highlighting for them.
 
-## Possible improvements
+## Perspectives (from the thesis)
 
 - Support for national health-insurance cards (CHIFAA, CNAS).
 - Android and iOS companion application.
-- Hashed passwords and automated backups.
 
 ## License
 
