@@ -1,0 +1,31 @@
+# Real data (HFSQL) - never commit
+*.fic
+*.ndx
+*.mmo
+*.mdf
+*.sem
+Sauvegarde*/
+**/Sauvegarde*/
+
+# WinDev generated / IDE temp files
+*.cpl/
+LASTGEN/
+lastsave/
+Gabarits/
+Historique/
+Groupware/
+*.log
+*.waudit
+*.wdcoverage
+*.wpf
+*.bkp
+*.tmp*
+*.env
+desktop.ini
+
+# Proprietary runtime libraries (not redistributed in this repo)
+*.dll
+*.DLL
+
+# Binaries are published through GitHub Releases
+*.exe

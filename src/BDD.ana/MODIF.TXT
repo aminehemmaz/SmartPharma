@@ -1,0 +1,3 @@
+//MO046-047.TXT ANA00046 TO ANA00047
+DetailsFacture		TAR	98	nouvelle taille enregistrement : 98
+DetailsFacture	IDclient	RUB-		la clé IDclient est supprimée

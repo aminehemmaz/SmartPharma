@@ -1,0 +1,16 @@
+# WinDev project files are proprietary: treat as binary (no diff, no line-ending conversion)
+*.wdp   binary
+*.wdw   binary
+*.wdr   binary
+*.wde   binary
+*.wdy   binary
+*.wdu   binary
+*.wdd   binary
+*.wda   binary
+*.wdap  binary
+*.sty   binary
+*.emf   binary
+
+# Keep them out of GitHub's language statistics
+src/** linguist-vendored
+docs/** linguist-documentation
